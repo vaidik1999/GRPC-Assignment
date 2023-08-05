@@ -1,0 +1,19 @@
+{
+  "name": "a2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Vaidik",
+  "license": "ISC",
+  "dependencies": {
+    "@grpc/grpc-js": "^1.8.15",
+    "aws-sdk": "^2.1390.0",
+    "axios": "^1.4.0",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "request": "^2.88.2"
+  }
+}
